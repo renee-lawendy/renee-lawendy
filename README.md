@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Renee Lawendy
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning HTML, CSS, Javascript and React
+- 💞️ I’m looking to collaborate on open source
+- 📫 How to reach me on <reneegeorgui@gmail.com>
